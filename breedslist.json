@@ -1,0 +1,20 @@
+[
+    {
+        "breedId": "B101",
+        "breedName": "Golden Retriever",
+        "description": "Friendly, intelligent and devoted. Great family dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Scotland",
+        "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+        "breedId": "B102",
+        "breedName": "Indian Chippiparai(SANDY PATTY)",
+        "description": "terror of kerala,protect everyone in a locality singlehandedly.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "India",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUj_C5_wzFLTKNV9Bo2sjJY0fEQti_4E0miV6t6hrfE4Ur4j-b"
+    }
+]
